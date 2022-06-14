@@ -7,10 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jbarreraballestas/jbarreraballestas.github.io.git"
-  },
   "author": "",
   "license": "MIT",
   "bugs": {
